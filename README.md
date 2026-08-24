@@ -79,4 +79,4 @@ Passwords are **masked with `*`** in the view output for security.
 Based on the MVC Pattern tutorial from [GeeksforGeeks](https://www.geeksforgeeks.org/mvc-design-pattern/).
 
 ## 👤 Author
-[Abhishek-kokkari](https://github.com/Abhishek-kokkari)
+[balajigs08](https://github.com/balajigs08)
